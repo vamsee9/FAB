@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClearScanner</string>
+    <string name="camera">Camera</string>
+    <string name="import_images">Import Image</string>
+    <string name="search">Search</string>
+</resources>
